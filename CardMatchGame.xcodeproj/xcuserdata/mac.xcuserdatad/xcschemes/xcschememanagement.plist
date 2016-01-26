@@ -4,7 +4,7 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>Learning.xcscheme</key>
+		<key>CardMatchGame.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>0</integer>
@@ -12,7 +12,17 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>04FACDC31C1D05560033EC30</key>
+		<key>04997FFE1C13D445002B9B2B</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>049980171C13D445002B9B2B</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>049980221C13D445002B9B2B</key>
 		<dict>
 			<key>primary</key>
 			<true/>

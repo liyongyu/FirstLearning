@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "04FACDC31C1D05560033EC30"
-               BuildableName = "Learning"
-               BlueprintName = "Learning"
-               ReferencedContainer = "container:Learning.xcodeproj">
+               BlueprintIdentifier = "04997FFE1C13D445002B9B2B"
+               BuildableName = "CardMatchGame.app"
+               BlueprintName = "CardMatchGame"
+               ReferencedContainer = "container:CardMatchGame.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -28,14 +28,34 @@
       selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
       shouldUseLaunchSchemeArgsEnv = "YES">
       <Testables>
+         <TestableReference
+            skipped = "NO">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "049980171C13D445002B9B2B"
+               BuildableName = "CardMatchGameTests.xctest"
+               BlueprintName = "CardMatchGameTests"
+               ReferencedContainer = "container:CardMatchGame.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
+         <TestableReference
+            skipped = "NO">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "049980221C13D445002B9B2B"
+               BuildableName = "CardMatchGameUITests.xctest"
+               BlueprintName = "CardMatchGameUITests"
+               ReferencedContainer = "container:CardMatchGame.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
       </Testables>
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "04FACDC31C1D05560033EC30"
-            BuildableName = "Learning"
-            BlueprintName = "Learning"
-            ReferencedContainer = "container:Learning.xcodeproj">
+            BlueprintIdentifier = "04997FFE1C13D445002B9B2B"
+            BuildableName = "CardMatchGame.app"
+            BlueprintName = "CardMatchGame"
+            ReferencedContainer = "container:CardMatchGame.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -55,10 +75,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "04FACDC31C1D05560033EC30"
-            BuildableName = "Learning"
-            BlueprintName = "Learning"
-            ReferencedContainer = "container:Learning.xcodeproj">
+            BlueprintIdentifier = "04997FFE1C13D445002B9B2B"
+            BuildableName = "CardMatchGame.app"
+            BlueprintName = "CardMatchGame"
+            ReferencedContainer = "container:CardMatchGame.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -74,10 +94,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "04FACDC31C1D05560033EC30"
-            BuildableName = "Learning"
-            BlueprintName = "Learning"
-            ReferencedContainer = "container:Learning.xcodeproj">
+            BlueprintIdentifier = "04997FFE1C13D445002B9B2B"
+            BuildableName = "CardMatchGame.app"
+            BlueprintName = "CardMatchGame"
+            ReferencedContainer = "container:CardMatchGame.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
